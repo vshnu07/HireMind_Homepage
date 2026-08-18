@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import Card from "../components/Card";
-import { Frameworks } from "../components/FrameWorks";
+import { Frameworks } from "../components/Frameworks";
 
 const About = () => {
   const grid2Container = useRef();
